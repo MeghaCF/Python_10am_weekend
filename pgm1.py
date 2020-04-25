@@ -17,5 +17,7 @@ a=10
 b=20
 print(a+b)
 
+print("how r u ")
+
 # HI I AM TRYING TO TEST PULL COMMAND
        
